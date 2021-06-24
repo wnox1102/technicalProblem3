@@ -1,0 +1,6 @@
+node_modules
+dist/
+./eslintrc.js
+./craco.config.js
+./tailwind.config.js
+
